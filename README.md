@@ -1,3 +1,7 @@
+![](https://raw.githubusercontent.com/rafafrdz/r3-lll-ej1/master/img/R_1.png)
+
+![](https://raw.githubusercontent.com/rafafrdz/r3-lll-ej1/master/img/R_2.png)
+
 ```python
 # -*- coding: utf-8 -*-
 import time
